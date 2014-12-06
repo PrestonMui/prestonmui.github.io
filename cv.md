@@ -29,6 +29,8 @@ Teaching Assistant, Introductory Microeconomics, Profs. Albrecht and Levinson. G
 
 **Works**
 
+Mui, Preston and Patrick Walsh. "Contaminated Sites and Information in Hedonic Models: an Analysis of a NJ Property Disclosure Law." *Under Review.* 2014.
+
 [“Demographic Trends and Growth in Japan and the United States”](http://libertystreeteconomics.newyorkfed.org/2014/10/demographic-trends-and-growth-in-japan-and-the-united-states.html) with Tom Klitgaard. Liberty
 Street Economics Blog. October 8th, 2014.
 
