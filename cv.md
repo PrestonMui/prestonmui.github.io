@@ -27,10 +27,10 @@ Teaching Assistant, Introductory Microeconomics, Profs. Albrecht and Levinson. G
 
 **Works**:
 
-“Demographic Trends and Growth in Japan and the United States” with Tom Klitgaard. Liberty
+[“Demographic Trends and Growth in Japan and the United States”](http://libertystreeteconomics.newyorkfed.org/2014/10/demographic-trends-and-growth-in-japan-and-the-united-states.html) with Tom Klitgaard. Liberty
 Street Economics Blog. October 8th, 2014.
 
-“The Declining Reliance on Foreign Investors” with Tom Klitgaard. Liberty Street Economics
+[“The Declining Reliance on Foreign Investors”](http://libertystreeteconomics.newyorkfed.org/2014/08/the-declining-us-reliance-on-foreign-investors.html) with Tom Klitgaard. Liberty Street Economics
 Blog. August 20th, 2014.
 
 “Household Search and Labor Force non-Participation.” Senior Thesis presented at Carroll
