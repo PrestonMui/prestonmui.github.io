@@ -25,6 +25,17 @@ Teaching Assistant, Intermediate Microeconomics, Profs. Vroman and Schwartz. Geo
 
 Teaching Assistant, Introductory Microeconomics, Profs. Albrecht and Levinson. Georgetown University, Spring 2011 - Fall 2012.
 
+**Works**:
+
+“Demographic Trends and Growth in Japan and the United States” with Tom Klitgaard. Liberty
+Street Economics Blog. October 8th, 2014.
+
+“The Declining Reliance on Foreign Investors” with Tom Klitgaard. Liberty Street Economics
+Blog. August 20th, 2014.
+
+“Household Search and Labor Force non-Participation.” Senior Thesis presented at Carroll
+Round, Georgetown University. April 2013.
+
 **Fellowships, Honors, and Awards**:
 
 B.J. Phoenix Medal, Georgetown University (May 2013).  
