@@ -4,9 +4,11 @@ title: CV
 permalink: /cv/
 ---
 
-**Citzenry**: United States
+**Citzenry**
 
-**Education**:
+United States
+
+**Education**
 
 A.B. Georgetown University, 2013  
 Mathematics and Economics  
@@ -25,7 +27,7 @@ Teaching Assistant, Intermediate Microeconomics, Profs. Vroman and Schwartz. Geo
 
 Teaching Assistant, Introductory Microeconomics, Profs. Albrecht and Levinson. Georgetown University, Spring 2011 - Fall 2012.
 
-**Works**:
+**Works**
 
 [“Demographic Trends and Growth in Japan and the United States”](http://libertystreeteconomics.newyorkfed.org/2014/10/demographic-trends-and-growth-in-japan-and-the-united-states.html) with Tom Klitgaard. Liberty
 Street Economics Blog. October 8th, 2014.
@@ -36,7 +38,7 @@ Blog. August 20th, 2014.
 “Household Search and Labor Force non-Participation.” Senior Thesis presented at Carroll
 Round, Georgetown University. April 2013.
 
-**Fellowships, Honors, and Awards**:
+**Fellowships, Honors, and Awards**
 
 B.J. Phoenix Medal, Georgetown University (May 2013).  
 *Awarded to the top undergraduate in economics*
@@ -50,6 +52,6 @@ Phi Beta Kappa (nominated May 2013)
 
 Charles G. Koch Summer Fellowship (2009)
 
-**Conference and Seminar Presentations**:
+**Conference and Seminar Presentations**
 
 Carroll Round, Georgetown University, 2013
