@@ -8,6 +8,10 @@ permalink: /cv/
 
 United States
 
+**Research Interests**
+
+International trade, labor economics, industrial organizaiton
+
 **Education**
 
 A.B. Georgetown University, 2013  
