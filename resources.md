@@ -8,7 +8,7 @@ Here are some resouces I've found helpful.
 
 **Software I Use**
 
-[Linux Mint][linuxmint]: This is my OS of choice. I use the Cinnamon desktop.
+[Linux Mint][linuxmint]: This is my OS of choice. I use the XFCE desktop.
 
 [Julia][julialang]: Julia is a "high-level, high-performance dynamic programming language for technical computing."
 Its syntax and feel are similar to Python and Matlab, but is faster than Python (out of the box) and cheaper than Matlab (free).
