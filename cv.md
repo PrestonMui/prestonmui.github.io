@@ -10,9 +10,11 @@ United States
 
 **Research Interests**
 
-International trade, labor economics, industrial organizaiton
+International trade, labor economics, macroeconomics, search
 
 **Education**
+
+Ph.D. Economics, University of California - Berkeley, 2015 - 2020 (expected)
 
 A.B. Georgetown University, 2013  
 Mathematics and Economics  
@@ -45,6 +47,8 @@ Blog. August 20th, 2014.
 Round, Georgetown University. April 2013.
 
 **Fellowships, Honors, and Awards**
+
+UC Berkeley Clausen Center for International Business and Policy Graduate Research Fellowship (beginning Fall 2015)
 
 B.J. Phoenix Medal, Georgetown University (May 2013).  
 *Awarded to the top undergraduate in economics*
