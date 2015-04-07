@@ -48,7 +48,7 @@ Round, Georgetown University. April 2013.
 
 **Fellowships, Honors, and Awards**
 
-UC Berkeley Clausen Center for International Business and Policy Graduate Research Fellowship (beginning Fall 2015)
+Graduate Research Fellow, UC-Berkeley Clausen Center for International Business and Policy (beginning Fall 2015)
 
 B.J. Phoenix Medal, Georgetown University (May 2013).  
 *Awarded to the top undergraduate in economics*
