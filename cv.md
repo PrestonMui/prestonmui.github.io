@@ -17,10 +17,9 @@ International trade, labor economics, macroeconomics, search
 Ph.D. Economics, University of California - Berkeley, 2015 - 2020 (expected)
 
 A.B. Georgetown University, 2013  
-
-> Mathematics and Economics  
-> *Summa cum laude*  
-> *Honors, Economics*
+Mathematics and Economics  
+*Summa cum laude*  
+*Honors, Economics*
 
 **Professional Experience**
 
