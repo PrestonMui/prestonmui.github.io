@@ -4,6 +4,8 @@ title: CV
 permalink: /cv/
 ---
 
+<div class = "hanging" markdown = "1">
+
 **Citzenry**
 
 United States
@@ -16,13 +18,10 @@ International trade, labor economics, macroeconomics, search
 
 Ph.D. Economics, University of California - Berkeley, 2015 - 2020 (expected)
 
-<!-- <div class = "hanging" id = "id1" markdown = "1"> -->
-<div class = "hanging" markdown = "1">
 A.B. Georgetown University, 2013  
 Mathematics and Economics  
 *Summa cum laude*  
 *Honors, Economics*
-</div>
 
 **Professional Experience**
 
@@ -68,3 +67,6 @@ Charles G. Koch Summer Fellowship (2009)
 **Conference and Seminar Presentations**
 
 Carroll Round, Georgetown University, 2013
+
+</div>
+
