@@ -4,6 +4,8 @@ title: Resources
 permalink: /resources/
 ---
 
+<div class = "hanging" markdown = "1">
+
 Here are some resouces I've found helpful.
 
 **Software I Use**
@@ -37,3 +39,5 @@ See [this paper](http://economics.sas.upenn.edu/~jesusfv/comparison_languages.pd
 [paul]: http://tutorial.math.lamar.edu/
 [code]: http://faculty.chicagobooth.edu/jesse.shapiro/research/CodeAndData.pdf
 [quantecon]: http://quant-econ.net/index.html
+
+</div>
