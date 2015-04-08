@@ -17,7 +17,7 @@ International trade, labor economics, macroeconomics, search
 Ph.D. Economics, University of California - Berkeley, 2015 - 2020 (expected)
 
 A.B. Georgetown University, 2013  
-Mathematics and Economics  
+> Mathematics and Economics  
 *Summa cum laude*  
 *Honors, Economics*
 
@@ -29,9 +29,9 @@ Summer Research Analyst, Federal Reserve Bank of New York, Research and Statisti
 
 Research Assistant, Environmental Protection Agency, National Center for Environmental Economics (June 2011 - May 2012)
 
-Teaching Assistant, Intermediate Microeconomics, Profs. Vroman and Schwartz. Georgetown University, Fall 2012 - Spring 2013.
+Teaching Assistant, Intermediate Microeconomics, Profs. Vroman and Schwartz. Georgetown University (Fall 2012 - Spring 2013)
 
-Teaching Assistant, Introductory Microeconomics, Profs. Albrecht and Levinson. Georgetown University, Spring 2011 - Fall 2012.
+Teaching Assistant, Introductory Microeconomics, Profs. Albrecht and Levinson. Georgetown University (Spring 2011 - Fall 2012)
 
 **Works**
 
