@@ -3,6 +3,11 @@ body {
     padding-bottom: 60px;
 }
 
+.hanging {
+  text-indent: -22px;
+  padding-left: 22px;
+}
+
 .copyright {
     color: #857874;
 }
