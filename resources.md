@@ -10,9 +10,9 @@ Here are some resouces I've found helpful.
 
 **Software I Use**
 
-[Linux Mint][linuxmint]: This is my OS of choice. I use the XFCE desktop.
+[Linux Mint][linuxmint]: This is my OS of choice. I use the MATE desktop.
 
-[Julia][julialang]: Julia is a "high-level, high-performance dynamic programming language for technical computing."
+[Julia][julialang]: Julia is a "high-level, high-performance dyna=mic programming language for technical computing."
 Its syntax and feel are similar to Python and Matlab, but is faster than Python (out of the box) and cheaper than Matlab (free).
 See [this paper](http://economics.sas.upenn.edu/~jesusfv/comparison_languages.pdf) for a comparison of programming languages in economics that includes Julia.
 
