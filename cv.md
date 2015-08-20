@@ -25,28 +25,27 @@ Mathematics and Economics
 
 **Professional Experience**
 
-Research Analyst, Federal Reserve Bank of New York, Research and Statistics Group, International Research Function (June 2013 - current)
+Research Analyst, Federal Reserve Bank of New York, Research and Statistics Group, International Research Function (2013 - 2015)
 
-Summer Research Analyst, Federal Reserve Bank of New York, Research and Statistics Division, International Research Group (June 2012 - August 2012)
+Summer Research Analyst, Federal Reserve Bank of New York, Research and Statistics Division, International Research Group (2012)
 
-Research Assistant, Environmental Protection Agency, National Center for Environmental Economics (June 2011 - May 2012)
+Research Assistant, Environmental Protection Agency, National Center for Environmental Economics (2011 - 2012)
 
-Teaching Assistant, Intermediate Microeconomics, Profs. Vroman and Schwartz. Georgetown University (Fall 2012 - Spring 2013)
+Teaching Assistant, Intermediate Microeconomics, Profs. Vroman and Schwartz. Georgetown University (2012 - 2013)
 
-Teaching Assistant, Introductory Microeconomics, Profs. Albrecht and Levinson. Georgetown University (Spring 2011 - Fall 2012)
+Teaching Assistant, Introductory Microeconomics, Profs. Albrecht and Levinson. Georgetown University (2011 - 2012)
 
 **Works**
 
-Mui, Preston and Patrick Walsh. "Contaminated Sites and Information in Hedonic Models: an Analysis of a NJ Property Disclosure Law." *Revise and Resubmit, Resource and Energy Economics*. Last version 2014.
+<!-- Mui, Preston and Patrick Walsh. "Contaminated Sites and Information in Hedonic Models: an Analysis of a NJ Property Disclosure Law." *Revise and Resubmit, Resource and Energy Economics*. Last version 2014. -->
 
-[“Demographic Trends and Growth in Japan and the United States”](http://libertystreeteconomics.newyorkfed.org/2014/10/demographic-trends-and-growth-in-japan-and-the-united-states.html) with Tom Klitgaard. Liberty
-Street Economics Blog. October 8th, 2014.
+[“Around the World in 8,379 Foreign Entities”](http://libertystreeteconomics.newyorkfed.org/2015/08/around-the-world-in-8379-foreign-entities.html) with Friederike Niepmann. Liberty Street Economics Blog. August 11th, 2015.
 
-[“The Declining Reliance on Foreign Investors”](http://libertystreeteconomics.newyorkfed.org/2014/08/the-declining-us-reliance-on-foreign-investors.html) with Tom Klitgaard. Liberty Street Economics
-Blog. August 20th, 2014.
+[“Demographic Trends and Growth in Japan and the United States”](http://libertystreeteconomics.newyorkfed.org/2014/10/demographic-trends-and-growth-in-japan-and-the-united-states.html) with Tom Klitgaard. Liberty Street Economics Blog. October 8th, 2014.
 
-“Household Search and Labor Force non-Participation.” Senior Thesis presented at Carroll
-Round, Georgetown University. April 2013.
+[“The Declining Reliance on Foreign Investors”](http://libertystreeteconomics.newyorkfed.org/2014/08/the-declining-us-reliance-on-foreign-investors.html) with Tom Klitgaard. Liberty Street Economics Blog. August 20th, 2014.
+
+“Household Search and Labor Force non-Participation.” Senior Thesis presented at Carroll Round, Georgetown University. April 2013.
 
 **Fellowships, Honors, and Awards**
 
