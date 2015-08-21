@@ -16,7 +16,7 @@ International trade, labor economics, macroeconomics, search
 
 **Education**
 
-Ph.D. Economics, University of California - Berkeley, 2015 - 2020 (expected)
+Ph.D. Economics, University of California - Berkeley, (2015 - present)
 
 A.B. Georgetown University, 2013  
 Mathematics and Economics  
