@@ -1,0 +1,403 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/LaTeXing/LaTeX.sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeXing/LaTeX.sublime-build",
+					"Clean up Files"
+				]
+			],
+			[
+				"Packages/LaTeXing/LaTeX.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"latex",
+				"LaTeXing: Word to Phrases Dictionary"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"ijulia",
+				"Sublime-IJulia: Open New IJulia Console"
+			],
+			[
+				"syntaxjuli",
+				"Set Syntax: Julia"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"remove pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove p",
+				"Package Control: Remove Package"
+			],
+			[
+				"latexing log",
+				"LaTeXing: Show Log Panel"
+			],
+			[
+				"latexinglog",
+				"LaTeXing: Show Log Panel"
+			],
+			[
+				"log",
+				"Set Syntax: LaTeX Log"
+			],
+			[
+				"stata",
+				"Set Syntax: Stata"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Discover Packages"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 340.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": true,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/prestonmui/Dropbox/site"
+	],
+	"file_history":
+	[
+		"/home/prestonmui/Dropbox/site/cv.md",
+		"/home/prestonmui/Dropbox/site/about.md",
+		"/home/prestonmui/Dropbox/berkeley/202a/psets/mui_202a_pset7_graphs.jl",
+		"/home/prestonmui/Dropbox/berkeley/202a/psets/mui_202a_pset3_graphs.jl",
+		"/home/prestonmui/.config/sublime-text-3/Packages/LaTeXing/LaTeXing.sublime-settings",
+		"/home/prestonmui/beets/music-include-list.txt",
+		"/home/prestonmui/Dropbox/berkeley/202a/psets/mui_202a_pset5.tex",
+		"/home/prestonmui/Dropbox/berkeley/202a/econ202a.sublime-project",
+		"/home/prestonmui/Dropbox/berkeley/202a/psets/mui_202a_pset4.tex",
+		"/home/prestonmui/Dropbox/berkeley/202a/psets/mui_202a_pset3.tex",
+		"/home/prestonmui/Dropbox/berkeley/202a/psets/mui_202a_pset2.tex",
+		"/home/prestonmui/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/prestonmui/.config/sublime-text-3/Packages/User/LaTeXing.sublime-settings",
+		"/home/prestonmui/Dropbox/berkeley/202a/psets/mui_202a_pset2_graphs.jl",
+		"/home/prestonmui/.config/sublime-text-3/Packages/IJulia/Sublime-IJulia.sublime-settings",
+		"/home/prestonmui/.config/sublime-text-3/Packages/User/Sublime-IJulia.sublime-settings",
+		"/home/prestonmui/Dropbox/workouts.txt",
+		"/home/prestonmui/.julia/v0.4/IJulia/deps/build.jl",
+		"/home/prestonmui/.julia/v0.4/Compose/src/Compose.jl",
+		"/home/prestonmui/.julia/v0.4/ZMQ/deps/builds/zmq/config.log",
+		"/home/prestonmui/Dropbox/berkeley/202a/psets/mui_202a_pset1.tex",
+		"/home/prestonmui/Dropbox/berkeley/berkeleyecon2015/README.md",
+		"/home/prestonmui/Dropbox/other/keys/rei.txt",
+		"/home/prestonmui/Dropbox/berkeley/202a/psets/mui_202a_pset1_graphs.jl",
+		"/home/prestonmui/Dropbox/berkeley/201a/psets/mui_201a_pset1.tex",
+		"/home/prestonmui/Dropbox/berkeley/202a/mui_202a_pset1.tex",
+		"/home/prestonmui/projects/econ202a.sublime-project",
+		"/home/prestonmui/projects/econ201a.sublime-project",
+		"/home/prestonmui/projects/dropbox.sublime-project",
+		"/home/prestonmui/Dropbox/site/README.md",
+		"/home/prestonmui/.config/beets/config.yaml",
+		"/home/prestonmui/beets/syncsdcard.sh",
+		"/home/prestonmui/beets/music-exclude-list.txt",
+		"/etc/fstab",
+		"/home/prestonmui/beets/musiclibrary.blb",
+		"/home/prestonmui/Dropbox/shopping_list.txt",
+		"/home/prestonmui/Dropbox/berkeley/econ204/psets/hw5.tex",
+		"/home/prestonmui/.bashrc",
+		"/home/prestonmui/=",
+		"/home/prestonmui/.config/sublime-text-3/Packages/LaTeXing/LaTeX.sublime-build",
+		"/home/prestonmui/.config/sublime-text-3/Installed Packages/LaTeXing.sublime-package",
+		"/usr/local/stata13/profile.do",
+		"/home/prestonmui/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/prestonmui/beets/sync_sdcard.sh",
+		"/home/prestonmui/.config/sublime-text-3/Packages/User/Package Control.sublime-settings",
+		"/home/prestonmui/.config/sublime-text-3/Packages/LaTeXing/Default.sublime-keymap",
+		"/home/prestonmui/Dropbox/other/older/nyu/hw1/hw1_prestonmui.tex",
+		"/home/prestonmui/Dropbox/berkeley/econ204/psets/hw4.tex",
+		"/home/prestonmui/test.tex",
+		"/home/prestonmui/Dropbox/berkeley/econ204/psets/hw123.tex",
+		"/home/prestonmui/Dropbox/berkeley/econ204/psets/hw3.tex",
+		"/etc/rc.local",
+		"/home/prestonmui/.bash",
+		"/home/prestonmui/Dropbox/site/resources.md",
+		"/home/prestonmui/Dropbox/berkeley/econ204/psets/hw2.tex"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"delta",
+			"e^{-t}",
+			"n + g",
+			"w_t",
+			"C_t",
+			"C_t ",
+			"^{T}",
+			"(r - \\rho) t",
+			"\\bigg",
+			"tao",
+			"isinstalled",
+			"Cairo",
+			" ",
+			"s^*",
+			"y",
+			"0.3",
+			" ",
+			"Ernest Chausson - Chausson Concert for Violin, Piano, and String Quartet",
+			"Gustav Mahler - Mahler: Symphony #8 in E-flat Major - Mahler: Symphony #8 in E-flat Major -",
+			"Gustav Mahler - Mahler: Symphony #6 in A minor \"Tragic\" - Mahler: Symphony #6 -",
+			"Gustav Mahler - Mahler: Symphony #5 in C Sharp minor - Mahler: Symphony #5 -",
+			"beet modify mahler '#4' ",
+			"Gustav Mahler - Mahler: Symphony #4 in G Major - Mahler: Symphony #4 - ",
+			"Gustav Mahler - Mahler: Symphony #3 in D minor - Mahler: Symphony #3 - ",
+			"bernstein",
+			"beet modify mahler bernstein ",
+			". ",
+			"title",
+			". ",
+			"beet modify mahler bernstein ",
+			"Gustav Mahler - Mahler: Symphony #2 in C minor \"Resurrection\" - Mahler: Symphony #2 - ",
+			"=",
+			"latexmk",
+			"pdf",
+			"delay",
+			"open",
+			"close",
+			"font",
+			"latexmk",
+			"synctex",
+			"latexmk",
+			"pdf",
+			"latexmk",
+			"bmatrix",
+			"} ",
+			"pmatrix",
+			"cross",
+			"latexmk",
+			"AUB",
+			"\\hat{a}",
+			"latexmk"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 219.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/LaTeXing/LaTeX.sublime-build",
+	"project": "site.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pset3.tex",
+				"psets/mui_202a_pset3.tex"
+			],
+			[
+				"pset3",
+				"psets/mui_202a_pset3.tex"
+			],
+			[
+				"pset2.tex",
+				"psets/mui_202a_pset2.tex"
+			],
+			[
+				"pset2.jl",
+				"psets/mui_202a_pset2_graphs.jl"
+			],
+			[
+				"_graphs",
+				"psets/mui_202a_pset2_graphs.jl"
+			],
+			[
+				"pset1",
+				"mui_202a_pset1.tex"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "201a",
+		"selected_items":
+		[
+			[
+				"201a",
+				"~/Dropbox/berkeley/201a/econ201a.sublime-project"
+			],
+			[
+				"drop",
+				"~/Dropbox/dropbox.sublime-project"
+			],
+			[
+				"240a",
+				"~/Dropbox/berkeley/240a/econ240a.sublime-project"
+			],
+			[
+				"201",
+				"~/Dropbox/berkeley/201a/econ201a.sublime-project"
+			],
+			[
+				"",
+				"~/Dropbox/berkeley/240a/econ240a.sublime-project"
+			],
+			[
+				"240",
+				"~/projects/econ240a.sublime-project"
+			],
+			[
+				"295",
+				"~/projects/econ295.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 236.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
