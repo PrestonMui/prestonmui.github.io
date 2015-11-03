@@ -12,7 +12,7 @@ United States
 
 **Research Interests**
 
-International trade, macroeconomics
+International trade, labor economics, macroeconomics, search
 
 **Education**
 

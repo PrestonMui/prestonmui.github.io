@@ -6,7 +6,7 @@ permalink: /about/
 
 I am a PhD student in Economics at the University of California, Berkeley.
 I received my undergraduate degree from Georgetown University in 2013.
-My research interests lie in international trade and macroeconomics.
+My research interests lie in international trade, labor economics, search, and macroeconomics.
 
 You can also find me here:
 
