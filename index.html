@@ -4,9 +4,21 @@ layout: default
 
 <!-- {% include about.md %} -->
 
-<!-- <h1>Most Recent Posts</h1>
+<!-- <h1>Most Recent Posts</h1> -->
 
 {% for post in paginator.posts %}
+<div class="article">
+    <div class="well">
+        <h1><a href="{{ site.baseurl}}{{ post.url }}">{{ post.date | date: "%b %-d, %Y" }} - {{ post.title }}</a></h1>
+        {% if site.comments == true and post.comments == true and site.disqus != '' %}
+          <p class="author"><a href="{{ site.baseurl }}{{ post.url }}/#disqus_thread">Comments</a></p>
+        {% endif %}
+        <div class="content">
+            {{ post.content }}
+        </div>
+    </div>
+</div>
+{% endfor %}{% for post in paginator.posts %}
 <div class="article">
     <div class="well">
         <h1><a href="{{ site.baseurl}}{{ post.url }}">{{ post.date | date: "%b %-d, %Y" }} - {{ post.title }}</a></h1>
@@ -33,4 +45,3 @@ layout: default
     <a class="btn btn-default" href="{{ site.baseurl}}/page{{ paginator.next_page }}" class="next">Older</a>
   {% endif %}
 </div>
- -->
