@@ -10,7 +10,7 @@ Here are some resouces I've found helpful.
 
 **Software I Use**
 
-[Linux Mint][linuxmint]: This is my OS of choice. I use the MATE desktop.
+[Arch Linux][archlinux]: I use the [i3 window manager][i3wm].
 
 [Julia][julialang]: Julia is a "high-level, high-performance dyna=mic programming language for technical computing."
 Its syntax and feel are similar to Python and Matlab, but is faster than Python (out of the box) and cheaper than Matlab (free).
@@ -31,6 +31,8 @@ See [this paper](http://economics.sas.upenn.edu/~jesusfv/comparison_languages.pd
 [Quantitative Economics][quantecon] by John Stachurski and Thomas Sargent.
 
 [linuxmint]: http://www.linuxmint.com/
+[archlinux]: http://www.archlinux.org/
+[i3wm]: http://i3wm.org
 [julialang]: http://julialang.org
 [sublime]: http://www.sublimetext.com/3
 [inkscape]: http://inkscape.org/
