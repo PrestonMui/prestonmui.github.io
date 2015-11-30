@@ -10,13 +10,13 @@ Here are some resouces I've found helpful.
 
 **Software I Use**
 
-[Arch Linux][archlinux]: I use the [i3 window manager][i3wm].
+[Arch Linux][archlinux]: I use a fairly standard setup with the [i3 window manager][i3wm] on a Lenovo Thinkpad x220.
 
 [Julia][julialang]: Julia is a "high-level, high-performance dyna=mic programming language for technical computing."
 Its syntax and feel are similar to Python and Matlab, but is faster than Python (out of the box) and cheaper than Matlab (free).
 See [this paper](http://economics.sas.upenn.edu/~jesusfv/comparison_languages.pdf) for a comparison of programming languages in economics that includes Julia.
 
-[Sublime Text][sublime]: My favorite text editor. Tons of plugins and features. I use the IJulia, Stata Enhanced, and LaTexing plugins.
+[Sublime Text][sublime]: I use LatexTools for TeX.
 
 [Inkscape][inkscape]: Make pretty charts for your papers or classes.
 
