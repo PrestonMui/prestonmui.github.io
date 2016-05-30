@@ -49,7 +49,9 @@ Teaching Assistant, Introductory Microeconomics, Profs. Albrecht and Levinson. G
 
 **Fellowships, Honors, and Awards**
 
-Graduate Research Fellow, UC-Berkeley Clausen Center for International Business and Policy (beginning Fall 2015)
+Graduate Dean's Summer Research Grant, UC-Berkeley (2016).
+
+Graduate Research Fellow, UC-Berkeley Clausen Center for International Business and Policy (2016).
 
 B.J. Phoenix Medal, Georgetown University (May 2013).  
 *Awarded to the top undergraduate in economics*
