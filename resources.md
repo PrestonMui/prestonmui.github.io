@@ -10,7 +10,7 @@ Here are some resouces I've found helpful.
 
 **Software I Use**
 
-[Arch Linux][archlinux]: I use a fairly standard setup with the [i3 window manager][i3wm] on a Lenovo Thinkpad x220.
+[Arch Linux][archlinux] on a Thinkpad x220: I use a fairly standard setup with the [i3 window manager][i3wm] with [zsh][zsh] and [urxvt][urxvt].
 
 [Julia][julialang]: Julia is a "high-level, high-performance dyna=mic programming language for technical computing."
 Its syntax and feel are similar to Python and Matlab, but is faster than Python (out of the box) and cheaper than Matlab (free).
@@ -41,5 +41,6 @@ See [this paper](http://economics.sas.upenn.edu/~jesusfv/comparison_languages.pd
 [paul]: http://tutorial.math.lamar.edu/
 [code]: http://faculty.chicagobooth.edu/jesse.shapiro/research/CodeAndData.pdf
 [quantecon]: http://quant-econ.net/index.html
-
+[zsh]: https://wiki.archlinux.org/index.php/zsh
+[urxvt]: https://wiki.archlinux.org/index.php/rxvt-unicode
 </div>
