@@ -12,7 +12,7 @@ Here are some resouces I've found helpful.
 
 [Arch Linux][archlinux] on a Thinkpad x220: I use a fairly standard setup with the [i3 window manager][i3wm] with [zsh][zsh] and [urxvt][urxvt].
 
-[Julia][julialang]: Julia is a "high-level, high-performance dyna=mic programming language for technical computing."
+[Julia][julialang]: Julia is a "high-level, high-performance dynamic programming language for technical computing."
 Its syntax and feel are similar to Python and Matlab, but is faster than Python (out of the box) and cheaper than Matlab (free).
 See [this paper](http://economics.sas.upenn.edu/~jesusfv/comparison_languages.pdf) for a comparison of programming languages in economics that includes Julia.
 
