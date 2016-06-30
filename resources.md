@@ -10,7 +10,7 @@ Here are some resouces I've found helpful.
 
 **Software I Use**
 
-[Arch Linux][archlinux] on a Thinkpad x220: I use a fairly standard setup with the [i3 window manager][i3wm] with [zsh][zsh] and [urxvt][urxvt].
+[Arch Linux][archlinux] on a Thinkpad x230: I use a fairly standard setup with the [i3 window manager][i3wm] with [zsh][zsh] and [urxvt][urxvt].
 
 [Julia][julialang]: Julia is a "high-level, high-performance dynamic programming language for technical computing."
 Its syntax and feel are similar to Python and Matlab, but is faster than Python (out of the box) and cheaper than Matlab (free).
