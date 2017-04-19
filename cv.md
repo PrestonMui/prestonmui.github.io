@@ -49,6 +49,8 @@ Teaching Assistant, Introductory Microeconomics, Profs. Albrecht and Levinson. G
 
 **Fellowships, Honors, and Awards**
 
+Eliot J. Swan Prize, UC-Berkeley Economics (2017)
+
 Graduate Dean's Summer Research Grant, UC-Berkeley (2016).
 
 Graduate Research Fellow, UC-Berkeley Clausen Center for International Business and Policy (2016).
