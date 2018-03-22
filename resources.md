@@ -10,7 +10,7 @@ Here are some resouces I've found helpful.
 
 **Software I Use**
 
-[Arch Linux][archlinux] on a Thinkpad x230: I use a fairly standard setup with the [i3 window manager][i3wm] with [zsh][zsh] and [urxvt][urxvt].
+[Arch Linux][archlinux] on a Thinkpad x62: I use a fairly standard setup with the [i3 window manager][i3wm] with [zsh][zsh] and [urxvt][urxvt].
 
 [Julia][julialang]: Julia is a "high-level, high-performance dynamic programming language for technical computing."
 Its syntax and feel are similar to Python and Matlab, but is faster than Python (out of the box) and cheaper than Matlab (free).
@@ -23,8 +23,6 @@ See [this paper](http://economics.sas.upenn.edu/~jesusfv/comparison_languages.pd
 [Mendeley][mendeley]: Organize your collection of academic papers (if you have a Kindle, you can use [KinSync][kinsync] to push your Mendeley collections to your Kindle).
 
 **Other useful sites**
-
-[Paul's Online Math Notes][paul]: Useful shoring up your Calc I-III, Differential Equations, and Linear Algebra (also useful for helping you get through these courses)
 
 [Code and Data for the Social Sciences][code], by Matthew Gentzkow and Jesse Shapiro: Very, very useful guide to data management, coding best practices, etc. A must-read!
 
