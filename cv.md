@@ -39,7 +39,7 @@ Teaching Assistant, Introductory Microeconomics, Profs. Albrecht and Levinson. G
 
 [The Aggregate Labor Supply Curve at the Extensive Margin: A Reservation Wedge Approach](https://github.com/PrestonMui/prestonmui.github.io/blob/master/files/mui-schoefer_2019wp_laborsupply.pdf).
 With [Benjamin Schoefer](https://eml.berkeley.edu/~schoefer/).
-Presented at: West Coast Search and Matching Workshop 2019 (Federal Reserve Bank of San Francisco), Society for Economic Dynamics Annual Meeting 2019, NBER Summer Institute (Micro Data and Macro Models) 2019
+Presented at: West Coast Search and Matching Workshop 2019 (Federal Reserve Bank of San Francisco), Society for Economic Dynamics Annual Meeting 2019, NBER Summer Institute (Micro Data and Macro Models) 2019, Philadelphia Federal Reserve Bank 2019.
 
 <!-- Mui, Preston and Patrick Walsh. "Contaminated Sites and Information in Hedonic Models: an Analysis of a NJ Property Disclosure Law." *Revise and Resubmit, Resource and Energy Economics*. Last version 2014. -->
 
