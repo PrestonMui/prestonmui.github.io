@@ -7,6 +7,25 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "languages_comparison/ifp.jl",
+			"settings":
+			{
+				"buffer_size": 4708,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "using QuantEcon"
+			}
+		},
+		{
+			"file": "languages_comparison/ifp.m",
+			"settings":
+			{
+				"buffer_size": 435,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -31,10 +50,14 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 392.0,
-		"last_filter": "",
+		"height": 79.0,
+		"last_filter": "matlab",
 		"selected_items":
 		[
+			[
+				"matlab",
+				"Set Syntax: MATLAB"
+			],
 			[
 				"latex",
 				"LaTeXing: Word to Phrases Dictionary"
@@ -92,7 +115,7 @@
 				"Package Control: Discover Packages"
 			]
 		],
-		"width": 575.0
+		"width": 416.0
 	},
 	"console":
 	{
@@ -113,7 +136,7 @@
 	},
 	"expanded_folders":
 	[
-		"/home/prestonmui/Dropbox/site"
+		"/C/Users/Preston Mui/Dropbox/site"
 	],
 	"file_history":
 	[
@@ -175,7 +198,7 @@
 	],
 	"find":
 	{
-		"height": 25.0
+		"height": 28.0
 	},
 	"find_in_files":
 	{
@@ -257,14 +280,79 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "languages_comparison/ifp.jl",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4708,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1516,
+								1516
+							]
+						],
+						"settings":
+						{
+							"auto_name": "using QuantEcon",
+							"syntax": "Packages/Julia/Julia.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 420.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "languages_comparison/ifp.m",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 435,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/Matlab/Matlab.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
 	"incremental_find":
 	{
-		"height": 25.0
+		"height": 28.0
 	},
 	"input":
 	{
@@ -279,11 +367,18 @@
 				0,
 				1,
 				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
 			]
 		],
 		"cols":
 		[
 			0.0,
+			0.5,
 			1.0
 		],
 		"rows":
@@ -305,7 +400,7 @@
 	"project": "site.sublime-project",
 	"replace":
 	{
-		"height": 46.0
+		"height": 52.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -344,9 +439,13 @@
 	"select_project":
 	{
 		"height": 500.0,
-		"last_filter": "201a",
+		"last_filter": "schoefer",
 		"selected_items":
 		[
+			[
+				"schoefer",
+				"C:\\Users\\Preston Mui\\Dropbox\\research\\schoefer.sublime-project"
+			],
 			[
 				"201a",
 				"~/Dropbox/berkeley/201a/econ201a.sublime-project"
@@ -387,14 +486,14 @@
 		],
 		"width": 0.0
 	},
-	"selected_group": 0,
+	"selected_group": 1,
 	"settings":
 	{
 	},
 	"show_minimap": true,
 	"show_open_files": false,
 	"show_tabs": true,
-	"side_bar_visible": true,
+	"side_bar_visible": false,
 	"side_bar_width": 236.0,
 	"status_bar_visible": true,
 	"template_settings":
