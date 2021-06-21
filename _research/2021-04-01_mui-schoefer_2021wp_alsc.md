@@ -1,5 +1,5 @@
 ---
-title: "Unemployment Eﬀects of Stay-at-Home Orders: Evidence from High Frequency Claims Data"
+title: "Unemployment Effects of Stay-at-Home Orders: Evidence from High Frequency Claims Data"
 collection: research
 status: 'workingpaper'
 permalink: /research/2020-10-01-mccrory-etal_2020restat_unemploymenteffects
