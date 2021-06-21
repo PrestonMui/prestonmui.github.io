@@ -10,6 +10,4 @@ coauthors: 'Chaewon Baek, Peter McCrory, and Todd Messer.'
 ---
 Test
 
-[Download paper here](https://doi.org/10.7910/DVN/RKPFLB)
-
-Recommended citation: Test
+Test 2
