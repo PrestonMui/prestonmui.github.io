@@ -28,7 +28,7 @@
 
     <!-- Title -->
     <h2 class="archive__item-title" itemprop="headline">
-      {% if post.link %}
+      {% if post.paperurl %}
         <a href="{{ post.paperurl }}">{{ title }}</a>
       {% else %}
         <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
@@ -45,7 +45,7 @@
     	<p> with {{ post.coauthors }} </p>
     {% endif %}
 
-<!-- Publication journal, date -->
+	<!-- Publication journal, date -->
 	{% if post.collection == 'teaching' %}
 	  <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
 	{% elsif post.collection == 'publications' %}
