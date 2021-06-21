@@ -11,36 +11,20 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D. Economics, University of California - Berkeley, (2015 - present)
+* A.B. Georgetown University, 2013
+_Summa cum laude_
+_Honors, Economics_
 
-Work experience
+Professional Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Research Analyst, Federal Reserve Bank of New York, Research and Statistics Group, International Research Function (2013 - 2015)
+* Summer Research Analyst, Federal Reserve Bank of New York, Research and Statistics Division, International Research Group (2012)
+* Research Assistant, Environmental Protection Agency, National Center for Environmental Economics (2011 - 2012)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+Research, Publications, and works
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+See my [research page](https://prestonmui.github.io/research/).
   
 Talks
 ======
