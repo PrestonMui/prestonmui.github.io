@@ -10,4 +10,4 @@ coauthors: 'Chaewon Baek, Peter McCrory, and Todd Messer.'
 ---
 Test
 
-Test 2
+[Replication Data](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/RKPFLB)
