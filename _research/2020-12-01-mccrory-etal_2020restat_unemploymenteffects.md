@@ -7,6 +7,8 @@ date: 2020-12-01
 venue: 'Review of Economics and Statistics'
 paperurl: 'https://doi.org/10.7910/DVN/RKPFLB'
 citation: 'Test'
+hascoauthors: 'Yes'
+coauthors: 'Chaewon Baek, Peter McCrory, and Todd Messer.'
 ---
 Test
 
