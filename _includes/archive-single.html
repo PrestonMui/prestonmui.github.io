@@ -39,7 +39,7 @@
     {% endif %}
 
     <!-- Coauthors -->
-    {% if post.collection == 'research' and post.hascoauthors == 'yes'%}
+    {% if post.collection == 'research' and post.coauthors %}
     	<p> with {{ post.coauthors }} </p>
     {% endif %}
 
