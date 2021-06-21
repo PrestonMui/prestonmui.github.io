@@ -27,13 +27,13 @@
     {% endif %}
 
     <!-- Title -->
-    <h2 class="archive__item-title" itemprop="headline">
+    <h3 class="archive__item-title" itemprop="headline">
       {% if post.paperurl %}
         <a href="{{ post.paperurl }}">{{ title }}</a>
       {% else %}
         <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
       {% endif %}
-    </h2>
+    </h3>
 
     <!-- Read Time -->
     {% if post.read_time %}
