@@ -9,13 +9,15 @@ author_profile: true
 
 ## Working Papers
 
+{% for post in site.research %}
 	{% if post.status != 'published' %}
 		{% include archive-single.html %}
 	{% endif %}
+{% endif %}
 
 ## Published
 
-{% for post in site.research reversed %}
+{% for post in site.research %}
 	{% if post.status == 'published' %}
   		{% include archive-single.html %}
 	{% endif %}
