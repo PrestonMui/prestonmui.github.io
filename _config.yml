@@ -1,37 +1,4 @@
-# Jekyll configuration
-
-name: Preston Mui
-description: Welcome to the personal website of Preston Mui.
-
-# url is currently only used only for the RSS feed in feed.xml
-url: http://prestonmui.github.io
-
-# baseurl will often be '', but for a project page on gh-pages, it needs to
-# be the project name.
-# *** IMPORTANT: If your local "jekyll serve" throws errors change this to '' or
-#     run it like so: jekyll serve --baseurl=''
-baseurl: ''
-
-# This can be '' to hide the Github nav button
-github: 'prestonmui'
-
-# Set this to your UA-# value, or '' to disable the block completely
-gaaccount: ''
-
-# Set this to your disqus shortname to enable comments. Note that the 'comments'
-# setting below must also be true. Individual posts can override 'comments' to
-# disable on a post-by-post basis
-disqus: ''
-comments: false
-
-permalink: /:year/:month/:title
-paginate: 5
-
-highlighter: rouge
-markdown: redcarpet
-redcarpet:
-  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
-
-exclude: ['README.md', 'LICENSE']
-
-markdown: kramdown
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+title: "academic" # the name of your site, e.g. ACME Corp.
+description: "a Jekyll theme for academia"
