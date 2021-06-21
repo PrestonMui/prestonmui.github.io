@@ -7,6 +7,16 @@ author_profile: true
 
 {% include base_path %}
 
+## Working Papers
+
+	{% if post.status != 'published' %}
+		{% include archive-single.html %}
+	{% endif %}
+
+## Published
+
 {% for post in site.research reversed %}
-  {% include archive-single.html %}
+	{% if post.status == 'published' %}
+  		{% include archive-single.html %}
+	{% endif %}
 {% endfor %}
