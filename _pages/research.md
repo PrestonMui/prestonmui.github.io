@@ -13,7 +13,7 @@ author_profile: true
 	{% if post.status != 'published' %}
 		{% include archive-single.html %}
 	{% endif %}
-{% endif %}
+{% endfor %}
 
 ## Published
 
