@@ -9,7 +9,7 @@ author_profile: true
 
 ## Working Papers
 
-{% for post in site.research %}
+{% for post in site.research reversed %}
 	{% if post.status != 'published' %}
 		{% include archive-single.html %}
 	{% endif %}
@@ -17,7 +17,7 @@ author_profile: true
 
 ## Published
 
-{% for post in site.research %}
+{% for post in site.research reversed %}
 	{% if post.status == 'published' %}
   		{% include archive-single.html %}
 	{% endif %}

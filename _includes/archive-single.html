@@ -31,7 +31,8 @@
       {% if post.paperurl %}
         <a href="{{ post.paperurl }}">{{ title }}</a>
       {% else %}
-        <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
+        <!-- <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a> -->
+        {{ title }}
       {% endif %}
     </h3>
 
