@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-### Education
+Education
 * Ph.D. Economics, University of California - Berkeley, (2015 - present)
 * A.B. Georgetown University, 2013
 _Summa cum laude_
