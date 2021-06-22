@@ -10,6 +10,7 @@ redirect_from:
 {% include base_path %}
 
 Education
+======
 * Ph.D. Economics, University of California - Berkeley, (2015 - present)
 * A.B. Georgetown University, 2013
 _Summa cum laude_
