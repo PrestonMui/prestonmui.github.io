@@ -28,12 +28,9 @@ See my [research page](https://prestonmui.github.io/research/).
   
 Teaching
 ======
-
-* Head Graduate Instructor, Department of Economics, UC-Berkeley (Fall 2018 - Summer 2020)
-
 Teaching Assistantships:
-
 * Econ-101b (Honors Macroeconomic Theory), Prof. Benjamin Schoefer. UC-Berkeley (Spring 2021)
+* Head Graduate Instructor, Department of Economics, UC-Berkeley (Fall 2018 - Summer 2020)
 * Econ-202b (Graduate Macroeconomic Theory), Prof. Benjamin Schoefer. UC-Berkeley (Spring 2018)
 * Econ-375 (Pedagogy Course), Prof. Martha Olney. UC-Berkeley (Fall 2017)
 * Econ-002 (Introductory Economics), Profs. Christina and David Romer. UC-Berkeley (Spring 2017)
@@ -43,4 +40,14 @@ Teaching Assistantships:
 
 Talks and Presentations
 ======
-Under construction.
+* ifo Conference on Macroeconomics and Survey Data (February 2020)
+* Society for Economic Dynamics Meeting (June 2019)
+* West Coast Search and Matching Conference (May 2019)
+
+Fellowships, Honors, and Awards
+======
+* Eliot J. Swan Prize, UC-Berkeley Economics (2017)
+* Graduate Dean’s Summer Research Grant, UC-Berkeley (2016).
+* Graduate Research Fellow, UC-Berkeley Clausen Center for International Business and Policy (2016).
+* B.J. Phoenix Medal, Georgetown University (May 2013).
+* Henry Leslie Award, Georgetown University (May 2013).
