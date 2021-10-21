@@ -1,5 +1,5 @@
 ---
-title: "Does Firm-specific Labor Supply Create Real Rigidities?"
+title: "Labor Market Monopsony in the New Keynesian Model: Theory and Evidence"
 date: 2021-10-01
 collection: research
 status: 'workingpaper'
