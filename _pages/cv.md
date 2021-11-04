@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+Also available as PDF: [1 page version](http://prestonmui.github.io/files/mui_cv_1page.pdf), [2 page version](http://prestonmui.github.io/files/mui_cv.pdf).
+
 Education
 ======
 * Ph.D. Economics, University of California - Berkeley, (2015 - present)
