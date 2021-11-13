@@ -13,10 +13,14 @@ Also available as PDF: [1 page version](http://prestonmui.github.io/files/mui_cv
 
 Education
 ======
-* Ph.D. Economics, University of California - Berkeley, (2015 - present)
+* Ph.D. Economics, University of California - Berkeley, (2015 - present, expected May 2022)
 * A.B. Georgetown University, 2013
 _Summa cum laude_
 _Honors, Economics_
+
+Research and Publications
+======
+See my [research page](https://prestonmui.github.io/research/).
 
 Professional Experience
 ======
@@ -24,10 +28,6 @@ Professional Experience
 * Summer Research Analyst, Federal Reserve Bank of New York, Research and Statistics Division, International Research Group (2012)
 * Research Assistant, Environmental Protection Agency, National Center for Environmental Economics (2011 - 2012)
 
-Research and Publications
-======
-See my [research page](https://prestonmui.github.io/research/).
-  
 Teaching
 ======
 Teaching Assistantships:
