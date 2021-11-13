@@ -1,6 +1,6 @@
 ---
 title: "Labor Market Monopsony in the New Keynesian Model: Theory and Evidence"
-date: 2021-10-01
+date: 2021-11-15
 collection: research
 status: 'workingpaper'
 venue: 'Job Market Paper'
