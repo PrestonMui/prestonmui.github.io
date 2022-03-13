@@ -10,4 +10,4 @@ redirect_from:
 
 I am a Ph.D. Candidate in the Department of Economics at the University of California, Berkeley. I study Macroeconomics and Labor Economics.
 
-In June I will be a Senior Economist at [Employ America](employamerica.org/).
+In June I will be a Senior Economist at [Employ America](https://www.employamerica.org/).
