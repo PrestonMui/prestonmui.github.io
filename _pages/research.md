@@ -7,14 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-## Working Papers
-
-{% for post in site.research reversed %}
-	{% if post.status == 'workingpaper' %}
-		{% include archive-single.html %}
-	{% endif %}
-{% endfor %}
-
 ## Peer-reviewed
 
 {% for post in site.research reversed %}
