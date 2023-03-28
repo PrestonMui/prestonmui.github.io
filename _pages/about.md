@@ -8,6 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. Candidate in the Department of Economics at the University of California, Berkeley. I study Macroeconomics and Labor Economics.
-
-In June I will be a Senior Economist at [Employ America](https://www.employamerica.org/).
+I am currently a Senior Economist at [Employ America](https://www.employamerica.org/). I completed my Ph.D. in Economics at the University of California, Berkeley in 2022.
