@@ -1,7 +1,7 @@
 ---
 title: "Labor Market Monopsony in the New Keynesian Model: Theory and Evidence"
 date: 2021-11-15
-collection: other
+collection: research
 status: 'workingpaper'
 venue: 'Job Market Paper'
 paperurl: 'https://github.com/PrestonMui/prestonmui.github.io/raw/master/files/mui-preston_jmp_currentdraft.pdf'
