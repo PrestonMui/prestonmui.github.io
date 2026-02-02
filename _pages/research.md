@@ -15,14 +15,6 @@ author_profile: true
 	{% endif %}
 {% endfor %}
 
-## Working Papers
-
-{% for post in site.research reversed %}
-	{% if post.status == 'workingpaper' %}
-  		{% include archive-single.html %}
-	{% endif %}
-{% endfor %}
-
 ## Other
 
 {% for post in site.research reversed %}
