@@ -47,6 +47,8 @@
 	  <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}. </p>
 	{% elsif post.collection == 'publications' %}
 	  <p>Published in <i>{{ post.venue }}, {{ post.date | default: "1900-01-01" | date: "%Y" }}</i>. </p>
+  {% elsif post.collection == 'appearances' %}
+	  <p><i>{{ post.venue }}. {{ post.date | default: "1900-01-01" | date: "%B, %Y" }}</i>. </p>
 	{% elsif post.collection == 'portfolio' %}
 	  <p><i>{{ post.venue }}. {{ post.date | default: "1900-01-01" | date: "%B, %Y" }}</i>. </p>
 	{% elsif post.date %}
