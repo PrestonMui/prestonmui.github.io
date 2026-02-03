@@ -1,7 +1,9 @@
 ---
 title: 'Cars, Reopening, & Housing Drove American Inflation While Natural Gas Heated European Inflation: Disaggregating Differences in US-Europe Inflation'
-collection: research
+collection: portfolio
+category: 'policy'
 status: 'other'
+visibility: 'public'
 permalink: /research/mui_2022ea_globalinflation2
 abstract: 'When we disaggregate the aggregate inflation statistics, we find that the sources of high inflation in the US and Europe are different.'
 date: 2022-08-17

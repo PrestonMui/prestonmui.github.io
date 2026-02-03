@@ -1,7 +1,9 @@
 ---
 title: "The Declining U.S. Reliance on Foreign Investors"
-collection: research
+collection: portfolio
+category: 'policy'
 status: 'other'
+visibility: 'public'
 permalink: /research/mui-klitgaard_2014libertystreet_decliningreliance
 coauthors: 'Tom Klitgaard'
 date: 2014-08-20
