@@ -68,7 +68,7 @@ author_profile: true
 }
 
 .research-category {
-  display: block;
+  display: none;
 }
 
 .research-category.active {
@@ -77,15 +77,21 @@ author_profile: true
 </style>
 
 <script>
-document.addEventListener('DOMContentLoaded', function() {
+function initializePortfolioFilters() {
   const buttons = document.querySelectorAll('.category-btn');
   const categories = document.querySelectorAll('.research-category');
+
+  if (buttons.length === 0 || categories.length === 0) {
+    console.warn('Portfolio filter elements not found');
+    return;
+  }
 
   // Show all categories by default
   categories.forEach(cat => cat.classList.add('active'));
 
   buttons.forEach(button => {
-    button.addEventListener('click', function() {
+    button.addEventListener('click', function(e) {
+      e.preventDefault();
       const selectedCategory = this.getAttribute('data-category');
 
       // Update button states
@@ -104,5 +110,15 @@ document.addEventListener('DOMContentLoaded', function() {
       });
     });
   });
-});
+}
+
+// Try multiple ways to initialize
+if (document.readyState === 'loading') {
+  document.addEventListener('DOMContentLoaded', initializePortfolioFilters);
+} else {
+  initializePortfolioFilters();
+}
+
+// Also try after a small delay as a fallback
+setTimeout(initializePortfolioFilters, 100);
 </script>
