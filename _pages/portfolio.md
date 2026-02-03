@@ -68,7 +68,7 @@ author_profile: true
 }
 
 .research-category {
-  display: none;
+  display: block;
 }
 
 .research-category.active {
