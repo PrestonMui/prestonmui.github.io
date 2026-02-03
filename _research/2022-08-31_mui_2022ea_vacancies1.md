@@ -9,4 +9,5 @@ abstract: 'The Federal Reserve has given job vacancy data center stage in assess
 date: 2022-08-31
 venue: 'Employ America'
 paperurl: 'https://www.employamerica.org/researchreports/a-vacant-metric-why-job-openings-are-so-unreliable/'
+abstract: 'We refute specific vacancy-backed arguments that the Federal Reserve will need to engineer a recession in order to bring inflation under control.'
 ---
