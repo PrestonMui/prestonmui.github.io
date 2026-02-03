@@ -48,6 +48,14 @@ author_profile: true
   </div>
 
   <div class="research-category" data-category="other">
+    <h2>Long-form Media Appearances</h2>
+
+    {% for post in site.appearances reversed %}
+      {% if post.visibility != 'hidden' %}
+        {% include archive-single.html %}
+      {% endif %}
+    {% endfor %}
+
     <h2>Other</h2>
     {% for post in site.portfolio reversed %}
       {% if post.category == 'other' and post.visibility != 'hidden' %}
