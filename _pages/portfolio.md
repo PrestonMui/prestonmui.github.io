@@ -7,54 +7,67 @@ author_profile: true
 
 {% include base_path %}
 
-<div class="category-filters" style="margin-bottom: 2em; text-align: center;">
-  <button class="category-btn active" data-category="all">All</button>
-  <button class="category-btn" data-category="academic">Academic</button>
-  <button class="category-btn" data-category="policy">Policy</button>
-  <button class="category-btn" data-category="other">Other</button>
-</div>
+<div class="portfolio-filter-container">
+  <input type="radio" name="category" id="filter-all" value="all" checked>
+  <input type="radio" name="category" id="filter-academic" value="academic">
+  <input type="radio" name="category" id="filter-policy" value="policy">
+  <input type="radio" name="category" id="filter-other" value="other">
 
-<div class="research-category active" data-category="all">
-<h2>All</h2>
+  <div class="category-filters">
+    <label for="filter-all" class="category-btn active">All</label>
+    <label for="filter-academic" class="category-btn">Academic</label>
+    <label for="filter-policy" class="category-btn">Policy</label>
+    <label for="filter-other" class="category-btn">Other</label>
+  </div>
 
-{% for post in site.portfolio reversed %}
-	{% if post.visibility != 'hidden' %}
-  		{% include archive-single.html %}
-	{% endif %}
-{% endfor %}
-</div>
+  <div class="research-category" data-category="all">
+    <h2>All</h2>
+    {% for post in site.portfolio reversed %}
+      {% if post.visibility != 'hidden' %}
+        {% include archive-single.html %}
+      {% endif %}
+    {% endfor %}
+  </div>
 
-<div class="research-category" data-category="academic">
-<h2>Academic</h2>
+  <div class="research-category" data-category="academic">
+    <h2>Academic</h2>
+    {% for post in site.portfolio reversed %}
+      {% if post.category == 'academic' and post.visibility != 'hidden' %}
+        {% include archive-single.html %}
+      {% endif %}
+    {% endfor %}
+  </div>
 
-{% for post in site.portfolio reversed %}
-	{% if post.category == 'academic' and post.visibility != 'hidden' %}
-  		{% include archive-single.html %}
-	{% endif %}
-{% endfor %}
-</div>
+  <div class="research-category" data-category="policy">
+    <h2>Policy</h2>
+    {% for post in site.portfolio reversed %}
+      {% if post.category == 'policy' and post.visibility != 'hidden' %}
+        {% include archive-single.html %}
+      {% endif %}
+    {% endfor %}
+  </div>
 
-<div class="research-category" data-category="policy">
-<h2>Policy</h2>
-
-{% for post in site.portfolio reversed %}
-	{% if post.category == 'policy' and post.visibility != 'hidden' %}
-  		{% include archive-single.html %}
-	{% endif %}
-{% endfor %}
-</div>
-
-<div class="research-category" data-category="other">
-<h2>Other</h2>
-
-{% for post in site.portfolio reversed %}
-	{% if post.category == 'other' and post.visibility != 'hidden' %}
-  		{% include archive-single.html %}
-	{% endif %}
-{% endfor %}
+  <div class="research-category" data-category="other">
+    <h2>Other</h2>
+    {% for post in site.portfolio reversed %}
+      {% if post.category == 'other' and post.visibility != 'hidden' %}
+        {% include archive-single.html %}
+      {% endif %}
+    {% endfor %}
+  </div>
 </div>
 
 <style>
+/* Hide radio inputs */
+input[type="radio"][name="category"] {
+  display: none;
+}
+
+.category-filters {
+  margin-bottom: 2em;
+  text-align: center;
+}
+
 .category-btn {
   padding: 10px 20px;
   margin: 0 10px;
@@ -65,13 +78,18 @@ author_profile: true
   cursor: pointer;
   font-size: 14px;
   transition: all 0.3s ease;
+  display: inline-block;
 }
 
 .category-btn:hover {
   background-color: #f0f0f0;
 }
 
-.category-btn.active {
+/* Style the label for the checked radio */
+#filter-all:checked ~ .category-filters label[for="filter-all"],
+#filter-academic:checked ~ .category-filters label[for="filter-academic"],
+#filter-policy:checked ~ .category-filters label[for="filter-policy"],
+#filter-other:checked ~ .category-filters label[for="filter-other"] {
   background-color: #4a90e2;
   color: white;
   border-color: #4a90e2;
@@ -81,51 +99,12 @@ author_profile: true
   display: none;
 }
 
-.research-category.active {
+/* Show the appropriate category based on which radio is checked */
+#filter-all:checked ~ [data-category="all"],
+#filter-academic:checked ~ [data-category="academic"],
+#filter-policy:checked ~ [data-category="policy"],
+#filter-other:checked ~ [data-category="other"] {
   display: block;
 }
 </style>
 
-<script>
-function initializePortfolioFilters() {
-  const buttons = document.querySelectorAll('.category-btn');
-  const categories = document.querySelectorAll('.research-category');
-
-  if (buttons.length === 0 || categories.length === 0) {
-    return;
-  }
-
-  buttons.forEach(button => {
-    button.addEventListener('click', function(e) {
-      e.preventDefault();
-      const selectedCategory = this.getAttribute('data-category');
-
-      // Update button states
-      buttons.forEach(btn => btn.classList.remove('active'));
-      this.classList.add('active');
-
-      // Update category visibility
-      categories.forEach(cat => {
-        const catCategory = cat.getAttribute('data-category');
-        if (selectedCategory === 'all') {
-          cat.classList.add('active');
-        } else if (catCategory === selectedCategory) {
-          cat.classList.add('active');
-        } else {
-          cat.classList.remove('active');
-        }
-      });
-    });
-  });
-}
-
-// Initialize when DOM is ready
-if (document.readyState === 'loading') {
-  document.addEventListener('DOMContentLoaded', initializePortfolioFilters);
-} else {
-  initializePortfolioFilters();
-}
-
-// Fallback initialization
-setTimeout(initializePortfolioFilters, 100);
-</script>
