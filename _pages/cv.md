@@ -24,6 +24,7 @@ See my [research page](https://prestonmui.github.io/research/).
 
 Professional Experience
 ======
+* Senior Economist, Employ America (2022 - Present)
 * Research Analyst, Federal Reserve Bank of New York, Research and Statistics Group, International Research Function (2013 - 2015)
 * Summer Research Analyst, Federal Reserve Bank of New York, Research and Statistics Division, International Research Group (2012)
 * Research Assistant, Environmental Protection Agency, National Center for Environmental Economics (2011 - 2012)
@@ -42,6 +43,7 @@ Teaching Assistantships:
 
 Talks and Presentations
 ======
+* Economic Policy Seminar, U.S. Department of the Treasury, Economic Policy Office (March 2025)
 * ifo Conference on Macroeconomics and Survey Data (February 2020)
 * Society for Economic Dynamics Meeting (June 2019)
 * West Coast Search and Matching Conference (May 2019)
