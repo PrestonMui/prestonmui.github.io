@@ -1,7 +1,7 @@
 ---
 title: "Around the World in 8,379 Foreign Entities"
 collection: portfolio
-category: 'policy'
+category: 'other'
 status: 'other'
 visibility: 'public'
 permalink: /research/mui-niepmann_2015libertystreet_aroundtheworld

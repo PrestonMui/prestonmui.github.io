@@ -1,7 +1,7 @@
 ---
 title: "Demographic Trends and Growth in Japan and the United States"
 collection: portfolio
-category: 'policy'
+category: 'other'
 status: 'other'
 visibility: 'public'
 permalink: /research/mui-klitgaard_2014libertystreet_demographictrends
