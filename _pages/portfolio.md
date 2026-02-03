@@ -21,7 +21,6 @@ author_profile: true
   </div>
 
   <div class="research-category" data-category="all">
-    <h2>All</h2>
     {% for post in site.portfolio reversed %}
       {% if post.visibility != 'hidden' %}
         {% include archive-single.html %}
@@ -30,7 +29,7 @@ author_profile: true
   </div>
 
   <div class="research-category" data-category="academic">
-    <h2>Academic</h2>
+    <h2>Academic Research</h2>
     {% for post in site.portfolio reversed %}
       {% if post.category == 'academic' and post.visibility != 'hidden' %}
         {% include archive-single.html %}
@@ -39,7 +38,7 @@ author_profile: true
   </div>
 
   <div class="research-category" data-category="policy">
-    <h2>Policy</h2>
+    <h2>Policy Briefs and Reports</h2>
     {% for post in site.portfolio reversed %}
       {% if post.category == 'policy' and post.visibility != 'hidden' %}
         {% include archive-single.html %}
