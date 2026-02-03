@@ -14,6 +14,16 @@ author_profile: true
   <button class="category-btn" data-category="other">Other</button>
 </div>
 
+<div class="research-category active" data-category="all">
+<h2>All</h2>
+
+{% for post in site.portfolio reversed %}
+	{% if post.visibility != 'hidden' %}
+  		{% include archive-single.html %}
+	{% endif %}
+{% endfor %}
+</div>
+
 <div class="research-category" data-category="academic">
 <h2>Academic</h2>
 
@@ -82,12 +92,8 @@ function initializePortfolioFilters() {
   const categories = document.querySelectorAll('.research-category');
 
   if (buttons.length === 0 || categories.length === 0) {
-    console.warn('Portfolio filter elements not found');
     return;
   }
-
-  // Show all categories by default
-  categories.forEach(cat => cat.classList.add('active'));
 
   buttons.forEach(button => {
     button.addEventListener('click', function(e) {
@@ -100,9 +106,10 @@ function initializePortfolioFilters() {
 
       // Update category visibility
       categories.forEach(cat => {
+        const catCategory = cat.getAttribute('data-category');
         if (selectedCategory === 'all') {
           cat.classList.add('active');
-        } else if (cat.getAttribute('data-category') === selectedCategory) {
+        } else if (catCategory === selectedCategory) {
           cat.classList.add('active');
         } else {
           cat.classList.remove('active');
@@ -112,13 +119,13 @@ function initializePortfolioFilters() {
   });
 }
 
-// Try multiple ways to initialize
+// Initialize when DOM is ready
 if (document.readyState === 'loading') {
   document.addEventListener('DOMContentLoaded', initializePortfolioFilters);
 } else {
   initializePortfolioFilters();
 }
 
-// Also try after a small delay as a fallback
+// Fallback initialization
 setTimeout(initializePortfolioFilters, 100);
 </script>
