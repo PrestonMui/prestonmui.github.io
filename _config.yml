@@ -80,40 +80,13 @@ analytics:
 
 # Site Author
 author:
-  avatar           : "preston-mui.jpg"
-  bio              : "Ph.D. Candidate in Economics at the University of California, Berkeley"
-  location         : "Berkeley, CA"
-  employer         :
-  pubmed           : 
-  googlescholar    : 
+  avatar           : "preston-mui.png"
+  bio              : "Senior Economist at Employ America"
+  location         : "Seattle, WA"
   email            : "prestonmui@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           : "prestonmui"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         :
-  orcid            : 
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : "prestonmui"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
+  github           : # "prestonmui"
+  bluesky          : "prestonmui.bsky.social"
 
 
 # Reading Files
