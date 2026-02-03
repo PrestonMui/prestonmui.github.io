@@ -27,7 +27,7 @@ _Honors, Economics_
 
 Research and Publications
 ======
-See my [research page](https://prestonmui.github.io/research/).
+See my [portfolio](https://prestonmui.github.io/portfolio/).
 
 Teaching
 ======
