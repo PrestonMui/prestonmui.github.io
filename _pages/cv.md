@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Also available as a [PDF](http://prestonmui.github.io/files/mui_cv_1page.pdf).
+Also available as a [PDF](http://prestonmui.github.io/files/mui_cv.pdf).
 
 Professional Experience
 ======
